@@ -49,5 +49,8 @@ The [Cursor plugin submission documentation](https://cursor.com/docs/reference/p
 - [CompanyEnrich](https://companyenrich.com/)
 - [MCP documentation](https://docs.companyenrich.com/docs/mcp-server)
 - [API documentation](https://docs.companyenrich.com/)
+- [Terms and Conditions](https://companyenrich.com/terms-and-conditions)
+- [Privacy Policy](https://companyenrich.com/privacy-policy)
+- Support: support@companyenrich.com
 
 Prepared 10 October 2026. Not yet submitted.
