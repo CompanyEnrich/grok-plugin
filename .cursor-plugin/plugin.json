@@ -1,0 +1,24 @@
+{
+  "name": "companyenrich",
+  "description": "Enrich company profiles, search for target accounts, and find similar companies with CompanyEnrich.",
+  "version": "0.1.0",
+  "author": {
+    "name": "CompanyEnrich"
+  },
+  "homepage": "https://companyenrich.com/product/mcp-server",
+  "repository": "https://github.com/CompanyEnrich/grok-plugin",
+  "logo": "https://avatars.githubusercontent.com/u/192038907?s=200&v=4",
+  "keywords": ["company-data", "enrichment", "prospecting", "company-search", "lookalikes", "mcp"],
+  "variables": {
+    "type": "object",
+    "properties": {
+      "COMPANYENRICH_API_KEY": {
+        "type": "string",
+        "title": "CompanyEnrich API key",
+        "description": "Your own API key from app.companyenrich.com. Enter only the key, without the Bearer prefix.",
+        "minLength": 1
+      }
+    },
+    "required": ["COMPANYENRICH_API_KEY"]
+  }
+}

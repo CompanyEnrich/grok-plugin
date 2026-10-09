@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "companyenrich": {
+      "url": "https://mcp.companyenrich.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${COMPANYENRICH_API_KEY}"
+      }
+    }
+  }
+}
