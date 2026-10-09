@@ -53,4 +53,4 @@ The [Cursor plugin submission documentation](https://cursor.com/docs/reference/p
 - [Privacy Policy](https://companyenrich.com/privacy-policy)
 - Support: support@companyenrich.com
 
-Prepared 10 October 2026. Not yet submitted.
+Publisher application submitted 10 October 2026. Cursor confirmed receipt; marketplace approval and Grok Bot availability remain pending.
